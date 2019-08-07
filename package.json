@@ -1,0 +1,9 @@
+{
+  "name": "nodejsdevf",
+  "version": "1.0.0",
+  "description": "This is a example of course",
+  "main": "main.js",
+  "author": "Mikee Rmz",
+  "license": "MIT",
+  "private": false
+}
